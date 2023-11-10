@@ -68,10 +68,10 @@ compress_html:
 
 # Collections
 collections:
-  - people
-  - projects:
-      output: true
-      permalink: /projects/:path/
+  people
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 
 
