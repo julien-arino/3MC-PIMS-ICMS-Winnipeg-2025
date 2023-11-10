@@ -1,7 +1,7 @@
 ---
-first_name: Stephanie
+first_name: Stéphanie
 last_name: Portet
-name: Stephanie Portet
+name: Stéphanie Portet
 email: stephanie.portet@umanitoba.ca
 university: University of Manitoba
 website: https://server.math.umanitoba.ca/~sportet/
