@@ -9,14 +9,14 @@ layout: page
 
 Je prout prout!
 
+    <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+        <figure class="image">
+        </figure>
+    </div>
 
 {% for person in site.people %}
 
-    <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
-        <figure class="image">
             <img class="is-rounded" src="{{ person.photo }}" alt="{{ person.name }}">
-        </figure>
-    </div>
 
     <h2>{{ person.name }} - {{ person.position }}</h2>
     <p>{{ person.content | markdownify }}</p>
