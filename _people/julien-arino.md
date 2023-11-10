@@ -1,7 +1,12 @@
 ---
+first_name: Julien
+last_name: Arino
 name: Julien Arino
-position: Developer
+email: julien.arino@umanitoba.ca
+university: University of Manitoba
+website: https://julien-arino.github.io/
+position_in_MM: Web developer
 photo: /test-mm/assets/images/arino.webp
 ---
 
-Julien has worked with Jekyll for the past *mehhhh*.
+Julien has worked using Jekyll for the past *mehhhh*.

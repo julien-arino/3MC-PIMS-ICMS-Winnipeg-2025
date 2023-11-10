@@ -1,6 +1,11 @@
 ---
+first_name: Stephanie
+last_name: Portet
 name: Stephanie Portet
-position: The Bosswoman
+email: stephanie.portet@umanitoba.ca
+university: University of Manitoba
+website: https://server.math.umanitoba.ca/~sportet/
+position_in_MM: The Bosswoman
 photo: /test-mm/assets/images/portet.jpg
 ---
 
