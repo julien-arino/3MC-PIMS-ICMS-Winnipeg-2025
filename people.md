@@ -23,6 +23,8 @@ layout: page
                 <a href="mailto:{{ person.email }}">Email</a>
                 <br>
                 <a href="{{ person.website }}">Website</a>
+                <br>
+                {{ person.content | markdownify }}
             </td>
         </tr>
     {% endfor %}
