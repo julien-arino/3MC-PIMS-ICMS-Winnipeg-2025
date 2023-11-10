@@ -5,6 +5,6 @@ layout: page
 
 <div>
     {% for person in site.people %}
-        {{ person.name }} - {{ person.position }}
+        <h2>{{ person.name }} - {{ person.position }}</h2>
     {% endfor %}
 </div>
