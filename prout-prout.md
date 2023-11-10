@@ -17,6 +17,6 @@ Je prout prout!
             <img class="is-rounded" src="{{person.photo}}" alt="{{person.name}}">
         </figure>
     </div>
-    <p>{{ person.content | markdownify }}</p>
+    <!-- <p>{{ person.content | markdownify }}</p> -->
 
 {% endfor %}
