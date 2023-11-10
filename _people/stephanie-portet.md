@@ -1,6 +1,6 @@
 ---
 name: Stephanie Portet
-position: The Boss /2
+position: The Bosswoman
 photo: /test-mm/assets/images/portet.jpg
 ---
 
