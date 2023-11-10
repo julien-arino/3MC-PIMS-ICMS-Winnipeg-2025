@@ -25,7 +25,7 @@ layout: page
                 {% if person.position_in_MM %}
                     Role in MMI : {{ person.position_in_MM }}
                     <br>
-    q            {% endif %}   
+                {% endif %}   
                 <br>
                 {{ person.content | markdownify }}
             </td>
