@@ -9,10 +9,10 @@ layout: page
 
 Je prout prout!
 
-<div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+<!-- <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
     <figure class="image">
     </figure>
-</div>
+</div> -->
 
 {% for person in site.people %}
 
