@@ -6,7 +6,7 @@ email: julien.arino@umanitoba.ca
 university: University of Manitoba
 website: https://julien-arino.github.io/
 position_in_MM: Web developer
-photo: /test-mm/assets/images/arino.webp
+photo: /assets/images/arino.webp
 ---
 
 Julien has worked using Jekyll for the past *mehhhh*.
