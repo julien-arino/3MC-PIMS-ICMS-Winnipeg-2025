@@ -11,8 +11,5 @@ Je prout prout!
 
 
 {% for person in site.people %}
-
     <h2>{{ person.name }} - {{ person.position }}</h2>
-    <img src="https://{{site.url}}{{site.baseurl}}/{{person.photo}}" width="48">
-
 {% endfor %}
