@@ -16,6 +16,8 @@ layout: page
             </td>
             <td>
                 <h2>{{ person.name }} </h2>
+                {{ person.position }} 
+                <br>
                 {{ person.university }}
                 <br>
                 <a href="mailto:{{ person.email }}">{{ person.email }}</a>
