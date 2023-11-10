@@ -16,13 +16,13 @@ layout: page
             </td>
             <td>
                 <h2>{{ person.name }} </h2>
-                {{ person.position_in_MM }}
-                <br>
                 {{ person.university }}
                 <br>
-                <a href="mailto:{{ person.email }}">Email</a>
+                <a href="mailto:{{ person.email }}">{{ person.email }}</a>
                 <br>
                 <a href="{{ person.website }}">Website</a>
+                Role in MMI : {{ person.position_in_MM }}
+                <br>
                 <br>
                 {{ person.content | markdownify }}
             </td>
