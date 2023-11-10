@@ -16,7 +16,7 @@ Je prout prout!
 
 {% for person in site.people %}
 
-    <img class="is-rounded" src="{{ person.photo }}" alt="{{ person.name }}">
+    <img class="is-rounded" src="{{person.photo}}" alt="{{person.name}}">
     <h2>{{ person.name }} - {{ person.position }}</h2>
     <p>{{ person.content | markdownify }}</p>
 
