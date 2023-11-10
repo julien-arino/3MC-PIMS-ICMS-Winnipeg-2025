@@ -35,7 +35,7 @@ dribbble_username: /
 spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: 
 
 # Disqus
 disqus-shortname: thedevslot
@@ -69,6 +69,10 @@ compress_html:
 # Collections
 collections:
   - people
+  - projects:
+      output: true
+      permalink: /projects/:path/
+
 
 
 # Defaults
