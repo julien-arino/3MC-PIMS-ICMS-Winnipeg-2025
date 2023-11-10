@@ -10,9 +10,9 @@ layout: page
         <br>
         {{ person.university }}
         <br>
-        {{ person.email }}
+        <a href="mailto:{{ person.email }}">Email</a>
         <br>
-        {{ person.website }}
+        <a href="{{ person.website }}">website</a>
         <br>
         {{ person.photo }}
     {% endfor %}
