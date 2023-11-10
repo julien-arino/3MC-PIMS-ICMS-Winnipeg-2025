@@ -68,7 +68,8 @@ compress_html:
 
 # Collections
 collections:
-  people
+  people:
+    output: false
   projects:
     output: true
     permalink: /projects/:path/
