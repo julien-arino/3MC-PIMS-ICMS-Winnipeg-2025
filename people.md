@@ -12,8 +12,8 @@ layout: page
         <br>
         <a href="mailto:{{ person.email }}">Email</a>
         <br>
-        <a href="{{ person.website }}">website</a>
+        <a href="{{ person.website }}">Website</a>
         <br>
-        {{ person.photo }}
+        ![]{ {{ person.photo }} }
     {% endfor %}
 </div>
