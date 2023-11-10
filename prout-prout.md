@@ -14,6 +14,5 @@ Je prout prout!
 
     <h2>{{ person.name }} - {{ person.position }}</h2>
     <img src="{{person.photo}}" width="48">
-    <!-- <p>{{ person.content | markdownify }}</p> -->
 
 {% endfor %}
