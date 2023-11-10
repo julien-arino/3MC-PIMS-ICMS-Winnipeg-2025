@@ -58,7 +58,6 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
-  - jekyll-image-size
 
 # Permalink
 permalink: "blog/:title"

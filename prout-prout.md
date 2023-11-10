@@ -15,7 +15,6 @@ Je prout prout!
     <h2>{{ person.name }} - {{ person.position }}</h2>
     <p>{{ person.content | markdownify }}</p>
 
-    {% assign image = person.photo %}
-    {% imagesize image:size?height=200 %}
+    <img src="{{person.photo}}" width="48">
 
 {% endfor %}
