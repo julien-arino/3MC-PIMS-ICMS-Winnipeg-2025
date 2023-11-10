@@ -14,6 +14,10 @@ layout: page
         <br>
         <a href="{{ person.website }}">Website</a>
         <br>
-        ![]{ {{ person.photo }} }
+        <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
+            <figure class="image is-64x64">
+                <img class="is-rounded" src="{person.photo}}">
+            </figure>
+        </div>
     {% endfor %}
 </div>
