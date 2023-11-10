@@ -14,3 +14,8 @@ Je prout prout!
         <img class="is-rounded" src="{{site.author-image}}" alt="{{site.author-name}}">
     </figure>
 </div>
+
+{% for person in site.people %}
+  <h2>{{ person.name }} - {{ person.position }}</h2>
+  <p>{{ person.content | markdownify }}</p>
+{% endfor %}

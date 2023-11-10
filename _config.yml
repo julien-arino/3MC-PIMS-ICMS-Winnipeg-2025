@@ -66,6 +66,11 @@ permalink: "blog/:title"
 compress_html:
   clippings: all
 
+# Collections
+collections:
+  - people
+
+
 # Defaults
 defaults:
   -
