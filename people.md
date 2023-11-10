@@ -21,9 +21,9 @@ layout: page
                 <a href="mailto:{{ person.email }}">{{ person.email }}</a>
                 <br>
                 <a href="{{ person.website }}">Website</a>
+                <br>
                 Role in MMI : {{ person.position_in_MM }}
-                <br>
-                <br>
+                <br><br>
                 {{ person.content | markdownify }}
             </td>
         </tr>
