@@ -1,13 +1,9 @@
 ---
-title: Prout prout
+title: People
 layout: page
 ---
 
-# Prout prout 
-
-## Prout prout prooooooout
-
-Je prout prout!
+# People
 
 
 {% for person in site.people %}
