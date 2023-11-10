@@ -22,8 +22,11 @@ layout: page
                 <br>
                 <a href="{{ person.website }}">Website</a>
                 <br>
-                Role in MMI : {{ person.position_in_MM }}
-                <br><br>
+                {% if {{ person.position_in_MM }} }
+                    Role in MMI : {{ person.position_in_MM }}
+                    <br>
+    q            {% endif %}   
+                <br>
                 {{ person.content | markdownify }}
             </td>
         </tr>
