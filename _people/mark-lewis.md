@@ -6,6 +6,6 @@ email: marklewis@uvic.ca
 university: University of Victoria
 position: Professor
 website: https://lewisresearchlab.org/
-position_in_MM: The Bossman
+position_in_MM: Co-director
 photo: /assets/images/lewis.png
 ---
