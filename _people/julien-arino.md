@@ -9,4 +9,3 @@ website: https://julien-arino.github.io/
 photo: /assets/images/arino.webp
 ---
 
-Julien has used Jekyll for the past *mehhhh*.
