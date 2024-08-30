@@ -25,7 +25,7 @@ layout: page
                 <a href="{{ person.website }}">Website</a>
                 <br>
                 {% if person.position_in_school %}
-                    Role in MMI : {{ person.position_in_school }}
+                    Role in the school : {{ person.position_in_school }}
                     <br>
                 {% endif %}   
                 <br>
