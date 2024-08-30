@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Maud Menten Institute
+title: 3MC - PIMS - ICMS - Winnipeg 2025
 # Description of the Site
-description: Mathematics for Life Sciences in the Canadian West
+description: Summer school in Winnipeg in 2025
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,12 +22,12 @@ heroimage: /test-mm/assets/images/bg-test-1.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
+email: julien.arino@gmail.com
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+github_username:  julien-arino
 youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 reddit_username: /
 behance_username: /
@@ -38,14 +38,14 @@ spotify_username: /
 google-analytics: 
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: 
 
 # Name of the Author
 author-name: Stephanie Portet
 # URL for the Image of the Author
 author-image: assets/images/Map_Member.png
 # 60 Words About the Author
-author-about: The MMI is a PIMS Research Network. The primary purpose of the Maud Menten Institute (MMI) is to provide a collaborative research platform for mathematical biologists at PIMS sites to promote interactions with life science experts and decision makers in government, industry and NGOs. The secondary purpose of the Maud Menten Institute is to develop the required training program for the non-academic pipeline in mathematical biology. This program will allow new generations of mathematical biologists to impact biological fields inside and outside of academia and will explicitly establish mathematical biology as a powerful tool of investigation in biology.
+author-about: The summer school will cover
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
