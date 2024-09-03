@@ -1,12 +1,13 @@
 ---
-first_name: Julien
-last_name: Arino
-name: Julien Arino
-email: julien.arino@gmail.com
-university: University of Manitoba
+first_name: Jay
+last_name: Newby
+name: Jay Newby
+email: 
+university: University of Alberta
 position: Professor
-website: https://julien-arino.github.io/
-position_in_school: Organising Committee & Website maintainer
+website: https://sites.ualberta.ca/~jnewby/
+position_in_school: Instructor
 photo: /assets/images/arino.webp
+research: Rheology, Intracellular transport, Stochastic approaches
 ---
 
