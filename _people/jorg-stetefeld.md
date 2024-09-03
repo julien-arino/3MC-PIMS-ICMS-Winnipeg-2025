@@ -1,12 +1,13 @@
 ---
-first_name: Julien
-last_name: Arino
-name: Julien Arino
-email: 
+first_name: Jörg
+last_name: Stetefeld
+name: Jörg Stetefeld
+email: jorg.stetefeld@umanitoba.ca
 university: University of Manitoba
-position: Professor
-website: https://julien-arino.github.io/
+position: Professor, Tier-1 Canada Research Chair in Structural Biology and Biophysics
+website: https://stetefeldlab.ca/
 position_in_school: Instructor
-photo: /assets/images/arino.webp
+photo: /assets/images/jorg-stetefeld.jpg
+research: Structural biology
 ---
 
