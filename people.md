@@ -10,7 +10,9 @@ layout: page
             <td>
                 <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
                     <figure class="image is-64x64">
-                        <img class="is-rounded" src="{{site.url}}{{site.baseurl}}{{person.photo}}">
+			{% if person.photo %}
+	                        <img class="is-rounded" src="{{site.url}}{{site.baseurl}}{{person.photo}}">
+			{% endif %}
                     </figure>
                 </div>
             </td>
