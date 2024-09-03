@@ -1,12 +1,13 @@
 ---
-first_name: Julien
-last_name: Arino
-name: Julien Arino
-email: julien.arino@gmail.com
-university: University of Manitoba
+first_name: Thomas
+last_name: Hillen
+name: Thomas Hillen
+email: 
+university: University of Alberta
 position: Professor
-website: https://julien-arino.github.io/
-position_in_school: Organising Committee & Website maintainer
-photo: /assets/images/arino.webp
+website: https://www.math.ualberta.ca/~thillen/
+position_in_school: Instructor
+photo: /assets/images/thomas-hillen.png
+research: Partial differential equations, Transport equations, Local and non-local effects, Cell motility and migration, Mathematical oncology
 ---
 

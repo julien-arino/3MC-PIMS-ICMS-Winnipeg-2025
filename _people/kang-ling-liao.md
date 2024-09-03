@@ -1,12 +1,13 @@
 ---
-first_name: Julien
-last_name: Arino
-name: Julien Arino
-email: julien.arino@gmail.com
+first_name: Kang-Ling
+last_name: Liao
+name: Kang-Ling Liao
+email: kang-ling.liao@umanitoba.ca
 university: University of Manitoba
-position: Professor
-website: https://julien-arino.github.io/
-position_in_school: Organising Committee & Website maintainer
-photo: /assets/images/arino.webp
+position: Assistant Professor
+website: https://kang-lingliao.wixsite.com/mysite-1
+position_in_school: Instructor
+photo: /assets/images/kang-ling-liao.webp
+research: Ordinary and delay differential equations, Mathematical oncology
 ---
 

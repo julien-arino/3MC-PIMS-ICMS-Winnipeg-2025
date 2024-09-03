@@ -1,12 +1,11 @@
 ---
-first_name: Julien
-last_name: Arino
-name: Julien Arino
+first_name: Khanh
+last_name: Dao Duc
+name: Khanh Dao Duc
 email: julien.arino@gmail.com
-university: University of Manitoba
-position: Professor
-website: https://julien-arino.github.io/
-position_in_school: Organising Committee & Website maintainer
-photo: /assets/images/arino.webp
+university: University of British Columbia
+position: Assistant Professor
+website: https://kdaoduc.com/
+position_in_school: Instructor
 ---
 
