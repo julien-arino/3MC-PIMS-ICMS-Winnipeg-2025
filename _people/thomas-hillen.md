@@ -2,7 +2,7 @@
 first_name: Thomas
 last_name: Hillen
 name: Thomas Hillen
-email: 
+email: thillen@ualberta.ca
 university: University of Alberta
 position: Professor
 website: https://www.math.ualberta.ca/~thillen/

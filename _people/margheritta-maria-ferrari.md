@@ -2,7 +2,7 @@
 first_name: Margherita Maria
 last_name: Ferrari
 name: Margherita Maria Ferrari
-email: 
+email: Margherita.Ferrari@umanitoba.ca
 university: University of Manitoba
 position: Assistant Professor
 website: https://www.mmferrari.net/
