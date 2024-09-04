@@ -29,14 +29,17 @@ The summer school aims to equip students with essential tools and methodologies 
 
 ### Biological interests
 * Structures and topology of molecules
-* Molecular motions in cells
-* Polymers 
-* Cell shape heterogenity
-* Basics of cancer immunotherapy
+* Transport in cells
+* Proteins interactions and signalling pathways 
+* Cell shapes and structures 
+* Introduction of cancer biology
 
 ### Methodology 
-* Introduction to graph theory and applications
-* Introduction to polymer modelling 
-* Image and shape analysis 
-* Mathematical modelling and Simulations - (formulation of models, numerical methods, calibration)
+* Graph theory and applications in biology
+* Geometric and statistical methods in biological data analysis 
+* Mathematical and computational modelling of cellular and molecular biology
+* Stochastic processes and dynamical systems in biological systems 
+ 
+
+
   
