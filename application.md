@@ -8,5 +8,15 @@ Applications close on October 15th 2024. Applicants will be contacted mid-Novemb
 
 [Apply now](https://forms.gle/KVJmyU8WKthwa8sW8).
 
-Questions : please contact [Alison Skopalek](mailto:Alison.Skopalek@umanitoba.ca).
+# Deadlines
+
+Application submissions : October, 15th
+
+Review of applications and Results : November, 15th
+
+Deadline to accept support : December, 5th
+
+# Questions  
+
+Please contact [Alison Skopalek](mailto:Alison.Skopalek@umanitoba.ca).
 
