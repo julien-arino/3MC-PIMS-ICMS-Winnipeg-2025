@@ -3,6 +3,12 @@ title: Information
 layout: page
 ---
 
+
+
+This research school is organized by the [Maud Menten Institute](https://maudmenteninstitute.org/) and  part of a series of events that emerges from the collaboration of three bodies: The [3MC program](https://natural-sciences.nwu.ac.za/paa/3MC), [PIMS](https://www.pims.math.ca/) and [ICMS](https://www.icms.org.uk/). 
+
+
+
 # Location
 
 The school will be held on the Fort Gary Campus of the [University of Manitoba](https://umanitoba.ca/). More specifically, participants will be housed and lectures will take place at [St John's College](https://umanitoba.ca/st-johns-college/).
@@ -15,3 +21,7 @@ Each day includes three 1.5-hour sessions by mathematicians and biologists, cove
 
 ## Project Work
 Students work in small, diverse groups on assigned research problems, applying lecture content. Instructors provide guidance, and students present their findings at the end of the school in oral presentations and written reports. Students are grouped based on their academic and geographic backgrounds, promoting collaborative learning and research.
+
+
+# Topics
+
