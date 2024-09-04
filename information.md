@@ -5,7 +5,7 @@ layout: page
 
 
 
-This research school is organized by the [Maud Menten Institute](https://maudmenteninstitute.org/) and  part of a series of events that emerges from the collaboration of three bodies: The [3MC program](https://natural-sciences.nwu.ac.za/paa/3MC) (South AFrica), [PIMS](https://www.pims.math.ca/) (Canada) and [ICMS](https://www.icms.org.uk/) (UK). 
+This research school is organized by the [Maud Menten Institute](https://maudmenteninstitute.org/) and  part of a series of events that emerges from the collaboration of three bodies: The [3MC program](https://natural-sciences.nwu.ac.za/paa/3MC) (South Africa), [PIMS](https://www.pims.math.ca/) (Canada) and [ICMS](https://www.icms.org.uk/) (UK). 
 
 
 
