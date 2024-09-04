@@ -5,7 +5,7 @@ layout: page
 
 
 
-This research school is organized by the [Maud Menten Institute](https://maudmenteninstitute.org/) and  part of a series of events that emerges from the collaboration of three bodies: The [3MC program](https://natural-sciences.nwu.ac.za/paa/3MC), [PIMS](https://www.pims.math.ca/) and [ICMS](https://www.icms.org.uk/). 
+This research school is organized by the [Maud Menten Institute](https://maudmenteninstitute.org/) and  part of a series of events that emerges from the collaboration of three bodies: The [3MC program](https://natural-sciences.nwu.ac.za/paa/3MC) (South AFrica), [PIMS](https://www.pims.math.ca/) (Canada) and [ICMS](https://www.icms.org.uk/) (UK). 
 
 
 
@@ -25,3 +25,18 @@ Students work in small, diverse groups on assigned research problems, applying l
 
 # Topics
 
+The summer school aims to equip students with essential tools and methodologies for investigating complex molecular and cellular questions. Courses will cover techniques relevant to structural, molecular, and cellular biology, all driven by specific biological questions.  Cancer will be used as an integrative example throughout the program.
+
+### Biological interests
+* Structures and topology of molecules
+* Molecular motions in cells
+* Polymers 
+* Cell shape heterogenity
+* Basics of cancer immunotherapy
+
+### Methodology 
+* Introduction to graph theory and applications
+* Introduction to polymer modelling 
+* Image and shape analysis 
+* Mathematical modelling and Simulations - (formulation of models, numerical methods, calibration)
+  
