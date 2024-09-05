@@ -6,6 +6,7 @@ layout: page
 <div>
     <table>
     {% for person in site.people %}
+    {% if person.position_in_school contains "Instructor" %}
         <tr>
             <td>
                 <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
@@ -34,6 +35,7 @@ layout: page
                 {{ person.content | markdownify }}
             </td>
         </tr>
+    {% endif %}
     {% endfor %}
     </table>
 </div>
