@@ -31,7 +31,7 @@ layout: page
                         <a href="mailto:{{ person.email }}">{{ person.email }}</a>
                         <br>
                         {% if person.research %}
-                                Research interests : {{ person.research %}
+                                Research interests : {{ person.research }}
                                 <br>
                         {% endif %}
                         {{ person.content | markdownify }}
