@@ -40,6 +40,7 @@ The summer school aims to equip students with essential tools and methodologies 
 * Mathematical and computational modelling of cellular and molecular biology
 * Stochastic processes and dynamical systems in biological systems 
  
-
+### Contact information
+Please contact [Alison Skopalek](mailto:Alison.Skopalek@umanitoba.ca) with 3MC-PIMS-ICMS-WINNIPEG-2025 in the email subject for any information regarding the school.
 
   

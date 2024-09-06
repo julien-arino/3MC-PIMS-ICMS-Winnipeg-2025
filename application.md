@@ -18,5 +18,5 @@ Applications close on October 15th 2024. Applicants will be contacted mid-Novemb
 
 # Questions  
 
-Please contact [Alison Skopalek](mailto:Alison.Skopalek@umanitoba.ca) with 3MC-PIMS-ICMS-WINNIPEG-2025 in the email title.
+Please contact [Alison Skopalek](mailto:Alison.Skopalek@umanitoba.ca) with 3MC-PIMS-ICMS-WINNIPEG-2025 in the email subject.
 

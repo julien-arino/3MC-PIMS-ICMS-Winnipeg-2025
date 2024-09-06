@@ -41,11 +41,12 @@ google-analytics:
 disqus-shortname: 
 
 # Name of the Author
-author-name: Stephanie Portet
+author-name: 
 # URL for the Image of the Author
 author-image: assets/images/Gemini_Generated_Image_sg9yxcsg9yxcsg9y.jfif
 # 60 Words About the Author
 author-about: The 3MC - PIMS - ICM Summer School is co-organised under the umbrellas of 3MC, PIMS and ICMS. It is funded by PIMS and others. It will be held in on the Fort Gary campus of the University of Manitoba in Winnipeg, from 16 to 27 June 2025. Topics of the school are Quantitative molecular and cellular biology.
+author-about-short: School on Quantitative molecular and cellular biology, Winnipeg 16-27 June 2025
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
