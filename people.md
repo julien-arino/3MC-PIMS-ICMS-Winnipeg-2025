@@ -19,17 +19,17 @@ layout: page
                         </div>
                     </td>
                     <td>
-                        <h2>{{ person.name }} </h2>
+                        {% if person.website %}
+                            <h2><a href="{{ person.website }}">{{ person.name }}</a></h2>
+                        {% else %}
+                            <h2>{{ person.name }}</h2>
+                        {% endif %}
                         {{ person.position }} 
                         <br>
                         {{ person.university }}
                         <br>
                         <a href="mailto:{{ person.email }}">{{ person.email }}</a>
                         <br>
-                        {% if person.website %}
-                            <a href="{{ person.website }}">Website</a>
-                            <br>
-                        {% endif %}
                         {{ person.content | markdownify }}
                     </td>
                 </tr>
