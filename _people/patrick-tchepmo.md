@@ -2,7 +2,7 @@
 first_name: Patrick
 last_name: Tchepmo Djomegni
 name: Patrick Tchepmo Djomegni
-email: 
+email: Patrick.TchepmoDjomegni@nwu.ac.za
 university: Northwest University (South Africa)
 position: Professor
 website: 
