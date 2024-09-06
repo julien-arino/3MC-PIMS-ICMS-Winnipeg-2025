@@ -26,8 +26,10 @@ layout: page
                         <br>
                         <a href="mailto:{{ person.email }}">{{ person.email }}</a>
                         <br>
-                        <a href="{{ person.website }}">Website</a>
-                        <br>
+                        {% if person.website %}
+                            <a href="{{ person.website }}">Website</a>
+                            <br>
+                        {% endif %}
                         {{ person.content | markdownify }}
                     </td>
                 </tr>
@@ -57,8 +59,10 @@ layout: page
                         <br>
                         <a href="mailto:{{ person.email }}">{{ person.email }}</a>
                         <br>
-                        <a href="{{ person.website }}">Website</a>
-                        <br>
+                        {% if person.website %}
+                            <a href="{{ person.website }}">Website</a>
+                            <br>
+                        {% endif %}
                         {{ person.content | markdownify }}
                     </td>
                 </tr>
