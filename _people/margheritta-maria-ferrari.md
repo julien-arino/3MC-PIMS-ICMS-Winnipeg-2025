@@ -8,5 +8,5 @@ position: Assistant Professor
 website: https://www.mmferrari.net/
 position_in_school: Instructor
 photo: /assets/images/margherita-maria-ferrari.jpg
+research: graph theory, combinatorics, DNA self-assembly, DNA-RNA interactions
 ---
-
