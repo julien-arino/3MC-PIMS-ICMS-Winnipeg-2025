@@ -12,9 +12,9 @@ layout: page
                     <td>
                         <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
                             <figure class="image is-64x64">
-                    {% if person.photo %}
+                                {% if person.photo %}
                                     <img class="is-rounded" src="{{site.url}}{{site.baseurl}}{{person.photo}}">
-                    {% endif %}
+                                {% endif %}
                             </figure>
                         </div>
                     </td>
@@ -30,6 +30,10 @@ layout: page
                         <br>
                         <a href="mailto:{{ person.email }}">{{ person.email }}</a>
                         <br>
+                        {% if person.research %}
+                                Research interests : {{ person.research %}
+                                <br>
+                        {% endif %}
                         {{ person.content | markdownify }}
                     </td>
                 </tr>
