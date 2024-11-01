@@ -1,7 +1,7 @@
 ---
 first_name: Sophie
 last_name: Dabo-Niang
-name: Sophia Dabo-Niang
+name: Sophie Dabo-Niang
 email: sophie.dabo@univ-lille.fr
 university: Université de Lille (France)
 position: Professor
