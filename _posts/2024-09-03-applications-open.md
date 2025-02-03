@@ -1,5 +1,5 @@
 ---
-title: Applications for School open
+title: Applications for School still open for Canadian-based students
 layout: post
 author_name: Stephanie Portet
 author_email: stephanie.portet@umanitoba.ca
@@ -11,5 +11,6 @@ tags:
 - test
 ---
 
-Applications for support to attend the School are open. Deadline October 15th, 2024.
+Applications for Canada-based students are still being accepted. Deadline 1 March 2025. [Apply now](https://forms.gle/KVJmyU8WKthwa8sW8)
+
 
