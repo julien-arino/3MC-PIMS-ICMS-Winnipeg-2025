@@ -10,11 +10,7 @@ Applications close on October 15th 2024. Applicants will be contacted mid-Novemb
 
 # Deadlines
 
-* Application submissions : October, 15th
-
-* Review of applications and Results : November, 15th
-
-* Deadline to accept support : December, 5th
+* Canadian Applications still being accepted. Deadline 1 March. <a href="https://forms.gle/KVJmyU8WKthwa8sW8">Apply now</a>
 
 # Questions  
 
