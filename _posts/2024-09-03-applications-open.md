@@ -11,6 +11,6 @@ tags:
 - test
 ---
 
-Applications for Canada-based students are still being accepted. Deadline 1 March 2025. [Apply now](https://forms.gle/KVJmyU8WKthwa8sW8)
+Applications for Canada-based students are still being accepted. Deadline 10 March 2025. [Apply now](https://forms.gle/KVJmyU8WKthwa8sW8)
 
 
