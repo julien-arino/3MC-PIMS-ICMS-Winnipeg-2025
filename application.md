@@ -9,7 +9,7 @@ Applications for students not based in Canada closed on October 15th 2024. Appli
 
 # Deadlines
 
-* Canadian Applications still being accepted. Deadline 1 March 2025. <a href="https://forms.gle/KVJmyU8WKthwa8sW8">Apply now</a>
+* Canadian Applications still being accepted. Deadline 10 March 2025. <a href="https://forms.gle/KVJmyU8WKthwa8sW8">Apply now</a>
 
 # Questions  
 
