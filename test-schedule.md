@@ -18,7 +18,17 @@ layout: page
     {% assign current_day = "" %}
     {% for row in csv_data %}
       {% if row.Week == "Week 1" %}
-        <tr {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}>
+        {% if row.Day != current_day and current_day != "" %}
+          <tr>
+            <td colspan="3"></td> <!-- Empty row between days -->
+          </tr>
+        {% endif %}
+        <tr 
+          {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
+          {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
+          {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
+          {% if row.Event == "Project" %}style="background-color: #f5f5dc;"{% endif %}
+        >
           <td>
             {% if row.Day != current_day %}
               {{ row.Day }}
@@ -46,7 +56,17 @@ layout: page
     {% assign current_day = "" %}
     {% for row in csv_data %}
       {% if row.Week == "Week 2" %}
-        <tr {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}>
+        {% if row.Day != current_day and current_day != "" %}
+          <tr>
+            <td colspan="3"></td> <!-- Empty row between days -->
+          </tr>
+        {% endif %}
+        <tr 
+          {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
+          {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
+          {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
+          {% if row.Event == "Project" %}style="background-color: #f5f5dc;"{% endif %}
+        >
           <td>
             {% if row.Day != current_day %}
               {{ row.Day }}
