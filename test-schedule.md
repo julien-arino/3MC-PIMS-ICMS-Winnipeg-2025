@@ -31,7 +31,7 @@ layout: page
         >
           <td>
             {% if row.Day != current_day %}
-              {{ row.Day }}
+              <strong>{{ row.Day }}</strong>
               {% assign current_day = row.Day %}
             {% endif %}
           </td>
@@ -69,7 +69,7 @@ layout: page
         >
           <td>
             {% if row.Day != current_day %}
-              {{ row.Day }}
+              <strong>{{ row.Day }}</strong>
               {% assign current_day = row.Day %}
             {% endif %}
           </td>
