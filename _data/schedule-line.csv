@@ -13,8 +13,8 @@ Week 1,Tuesday,10:00-10:30,Coffee Break
 Week 1,Tuesday,10:30-12:00,Lecture 6 - Newby 2 - Stochastic differential equations
 Week 1,Tuesday,12:00-13:00,Project
 Week 1,Tuesday,13:00-14:00,Lunch
-Week 1,Tuesday,14:00-15:30,Lecture 7 - Cytrynbaum 2 - Stochastic models for simple reactions and the Kolmogorov forward equation
-Week 1,Tuesday,15:30-17:00,Lecture 8 - Madzvamuse 2 - Numerical method for reaction-diffusion models
+Week 1,Tuesday,14:00-15:30,Lecture 7 - Cytrynbaum 2 - Stochastic models for simple reactions and the Kolmogorov forward equations
+Week 1,Tuesday,15:30-17:00,Lecture 8 - Madzvamuse 2 - Numerical methods for reaction-diffusion models
 Week 1,Tuesday,18:30-19:30,Dinner
 Week 1,Tuesday,19:30-21:00,Project
 Week 1,Wednesday,8:30-10:00,Lecture 9 - McKenna - Introduction to DNA
@@ -23,7 +23,7 @@ Week 1,Wednesday,10:30-12:00,Lecture 10 - Newby 3 - State space models: bayesian
 Week 1,Wednesday,12:00-13:00,Project
 Week 1,Wednesday,13:00-14:00,Lunch
 Week 1,Wednesday,14:00-15:30,Lecture 11 - Cytrynbaum 3 - Stochastic and deterministic models
-Week 1,Wednesday,15:30-17:00,Lecture 12 - Intro DNA (experimentalists)
+Week 1,Wednesday,15:30-17:00,Lecture 12 - DNA and cancer
 Week 1,Wednesday,18:30-19:30,Dinner
 Week 1,Wednesday,19:30-21:00,Project
 Week 1,Thursday,8:30-10:00,Lecture 13 - Ferrari 1 - Introduction to graph theory
@@ -32,12 +32,12 @@ Week 1,Thursday,10:30-12:00,Lecture 14 - Liao 1 - Parameter Estimation
 Week 1,Thursday,12:00-13:00,Project
 Week 1,Thursday,13:00-14:00,Lunch
 Week 1,Thursday,14:00-15:30,Lecture 16 - Introduction to cancer biology
-Week 1,Thursday,15:30-17:00,Lecture 15 - Sotero 2 -
+Week 1,Thursday,15:30-17:00,Lecture 15 - Sotero 1 - Introduction to polymer modelling and some Monte Carlo methods
 Week 1,Thursday,18:30-19:30,Dinner
 Week 1,Thursday,19:30-21:00,Project
 Week 1,Friday,8:30-10:00,Lecture 16 - Ferrari 2 - Graph theory concepts and applications to cancer
 Week 1,Friday,10:00-10:30,Coffee Break
-Week 1,Friday,10:30-12:00,Lecture 17 - Sotero 3
+Week 1,Friday,10:30-12:00,Lecture 17 - Sotero 2 - Using polymer models to explore DNA topology questions
 Week 1,Friday,12:00-13:00,Project
 Week 1,Friday,13:00-14:00,Lunch
 Week 1,Friday,14:00-15:30,Lecture 18 - Madzvamuse 3 - Open source software for PDE
