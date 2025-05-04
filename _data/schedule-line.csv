@@ -5,16 +5,16 @@ Week 1,Monday,10:30-12:00,"Lecture 2 - Newby 1 - Brownian motion: physics, mathe
 Week 1,Monday,12:00-13:00,Project
 Week 1,Monday,13:00-14:00,Lunch
 Week 1,Monday,14:00-15:30,"Lecture 3 - Cytrynbaum 1 - Conservation laws: compartment models, diffusion-advection equations"
-Week 1,Monday,15:30-17:00,Lecture 4 - Madzvamuse 1 - Reaction-diffusion models
+Week 1,Monday,15:30-17:00,Lecture 4 - Madzvamuse 1 - Analysis of reaction-diffusion systems on stationary domains
 Week 1,Monday,18:30-19:30,Dinner
-Week 1,Monday,19:30-21:00,Project - Presentation of projects
+Week 1,Monday,19:30-21:00,Project - Presentation of project topics and groups
 Week 1,Tuesday,8:30-10:00,Lecture 5 - Lin - Cell migration - experiments
 Week 1,Tuesday,10:00-10:30,Coffee Break
 Week 1,Tuesday,10:30-12:00,Lecture 6 - Newby 2 - Stochastic differential equations
 Week 1,Tuesday,12:00-13:00,Project
 Week 1,Tuesday,13:00-14:00,Lunch
-Week 1,Tuesday,14:00-15:30,Lecture 7 - Cytrynbaum 2 - Stochastic models for simple reactions and the Kolmogorov forward equations
-Week 1,Tuesday,15:30-17:00,Lecture 8 - Madzvamuse 2 - Numerical methods for reaction-diffusion models
+Week 1,Tuesday,14:00-15:30,Lecture 7 - Cytrynbaum 2 - Stochastic models for simple reactions and the Kolmogorov Forward Equation
+Week 1,Tuesday,15:30-17:00,Lecture 8 - Madzvamuse 2 - Numerical methods for reaction-diffusion system on stationary domains
 Week 1,Tuesday,18:30-19:30,Dinner
 Week 1,Tuesday,19:30-21:00,Project
 Week 1,Wednesday,8:30-10:00,Lecture 9 - McKenna - Introduction to DNA
@@ -22,7 +22,7 @@ Week 1,Wednesday,10:00-10:30,Coffee Break
 Week 1,Wednesday,10:30-12:00,Lecture 10 - Newby 3 - State space models: bayesian methods and applications to tracking in cells
 Week 1,Wednesday,12:00-13:00,Project
 Week 1,Wednesday,13:00-14:00,Lunch
-Week 1,Wednesday,14:00-15:30,Lecture 11 - Cytrynbaum 3 - Stochastic and deterministic models
+Week 1,Wednesday,14:00-15:30,Lecture 11 - Cytrynbaum 3 - Stochastic and deterministic models of cytoskeleton polymers
 Week 1,Wednesday,15:30-17:00,Lecture 12 - DNA and cancer
 Week 1,Wednesday,18:30-19:30,Dinner
 Week 1,Wednesday,19:30-21:00,Project
@@ -40,22 +40,22 @@ Week 1,Friday,10:00-10:30,Coffee Break
 Week 1,Friday,10:30-12:00,Lecture 17 - Sotero 2 - Using polymer models to explore DNA topology questions
 Week 1,Friday,12:00-13:00,Project
 Week 1,Friday,13:00-14:00,Lunch
-Week 1,Friday,14:00-15:30,Lecture 18 - Madzvamuse 3 - Open source software for PDE
+Week 1,Friday,14:00-15:30,Lecture 18 - Madzvamuse 3 - High performance numerical methods for PDEs
 Week 1,Friday,15:30-17:00,Project
 Week 1,Friday,18:30-19:30,Dinner
 Week 1,Friday,19:30-21:00,Project
 Week 1,Saturday,All Day,Project
 Week 1,Sunday,All Day,Project
-Week 2,Monday,8:30-10:00,Lecture 19 - Dao Duc 1 - Studying biological shape variation
+Week 2,Monday,8:30-10:00,Lecture 19 - Dao Duc 1 - A Riemannian perspective on shape space with applications to cancer cell shape heterogeneity
 Week 2,Monday,10:00-10:30,Coffee Break
-Week 2,Monday,10:30-12:00,Lecture 20 - Hillen 1 - Transport equations
+Week 2,Monday,10:30-12:00,Lecture 20 - Hillen 1 - Transport equations in biology
 Week 2,Monday,12:00-13:00,Project
 Week 2,Monday,13:00-14:00,Lunch
 Week 2,Monday,14:00-15:30,Lecture 21 - Liao 2 - Evolutionary algorithms
 Week 2,Monday,15:30-17:00,Project
 Week 2,Monday,18:30-19:30,Dinner
 Week 2,Monday,19:30-21:00,Project
-Week 2,Tuesday,8:30-10:00,Lecture 22 - Dao Duc 3
+Week 2,Tuesday,8:30-10:00,Lecture 22 - Dao Duc 2 - Manifold learning methods and dimensionality reduction of biological shape datasets
 Week 2,Tuesday,10:00-10:30,Coffee Break
 Week 2,Tuesday,10:30-12:00,Lecture 23 - Hillen 2 - Anisotropic diffusion
 Week 2,Tuesday,12:00-13:00,Project
@@ -64,12 +64,12 @@ Week 2,Tuesday,14:00-15:30,Lecture 24 - Liao 3 - Identifiability
 Week 2,Tuesday,15:30-17:00,Project
 Week 2,Tuesday,18:30-19:30,Dinner
 Week 2,Tuesday,19:30-21:00,Project
-Week 2,Wednesday,8:30-10:00,Lecture 25 - Stetefeld 2 - cryo-EM/ET - Experiments
+Week 2,Wednesday,8:30-10:00,Lecture 25 - Stetefeld 2 - Introduction to cryogenic electron microscopy (cryo-EM) and tomography (cryo-ET) 
 Week 2,Wednesday,10:00-10:30,Coffee Break
-Week 2,Wednesday,10:30-12:00,Lecture 26 - Dao Duc 2 - cryo-EM/ET - Mathematics
+Week 2,Wednesday,10:30-12:00,Lecture 26 - Dao Duc 3 - An introduction to optimal transport with applications for cryo-EM/ET guided drug design pipeline
 Week 2,Wednesday,12:00-13:00,Project
 Week 2,Wednesday,13:00-14:00,Lunch
-Week 2,Wednesday,14:00-15:30,Lecture 27 - Hillen 3 - Modelling of glioma
+Week 2,Wednesday,14:00-15:30,Lecture 27 - Hillen 3 - Modelling of glioma with anisotropic diffusion
 Week 2,Wednesday,15:30-17:00,Project
 Week 2,Wednesday,18:30-19:30,Dinner
 Week 2,Wednesday,19:30-21:00,Project
