@@ -7,7 +7,7 @@ university: University of Manitoba
 position: Professor
 website: https://labchipincubator.com/
 position_in_school: Instructor
-photo: /assets/images/francislin.jgp
+photo: /assets/images/francislin.jpg
 research: Biophysics, Biomedical Engineering, Cell migration and trafficking, Immunology
 ---
 
