@@ -38,14 +38,18 @@ layout: page
           </td>
           <td>{{ row.Time }}</td>
           <td>
-            {% assign event_text = row.Event %}
+            {% assign linked = false %}
             {% for instructor in instructors %}
               {% assign last_name = instructor.last_name %}
-              {% if event_text contains last_name %}
-                {% assign event_text = event_text | replace: last_name, '<a href="' | append: site.baseurl | append: instructor.url | append: '">' | append: last_name | append: '</a>' %}
+              {% if row.Event contains last_name %}
+                <a href="{{ site.baseurl }}{{ instructor.url }}">{{ row.Event }}</a>
+                {% assign linked = true %}
+                {% break %}
               {% endif %}
             {% endfor %}
-            {{ event_text | markdownify | remove: '<p>' | remove: '</p>' }}
+            {% unless linked %}
+              {{ row.Event }}
+            {% endunless %}
           </td>
         </tr>
       {% endif %}
@@ -85,14 +89,18 @@ layout: page
           </td>
           <td>{{ row.Time }}</td>
           <td>
-            {% assign event_text = row.Event %}
+            {% assign linked = false %}
             {% for instructor in instructors %}
               {% assign last_name = instructor.last_name %}
-              {% if event_text contains last_name %}
-                {% assign event_text = event_text | replace: last_name, '<a href="' | append: site.baseurl | append: instructor.url | append: '">' | append: last_name | append: '</a>' %}
+              {% if row.Event contains last_name %}
+                <a href="{{ site.baseurl }}{{ instructor.url }}">{{ row.Event }}</a>
+                {% assign linked = true %}
+                {% break %}
               {% endif %}
             {% endfor %}
-            {{ event_text | markdownify | remove: '<p>' | remove: '</p>' }}
+            {% unless linked %}
+              {{ row.Event }}
+            {% endunless %}
           </td>
         </tr>
       {% endif %}
