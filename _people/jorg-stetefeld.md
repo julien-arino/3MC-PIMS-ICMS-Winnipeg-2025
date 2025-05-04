@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Jörg
 last_name: Stetefeld
 name: Jörg Stetefeld

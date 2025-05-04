@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Kang-Ling
 last_name: Liao
 name: Kang-Ling Liao

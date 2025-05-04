@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Jay
 last_name: Newby
 name: Jay Newby

@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Sean
 last_name: McKenna
 name: Sean McKenna

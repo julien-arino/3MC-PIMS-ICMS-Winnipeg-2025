@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Khanh
 last_name: Dao Duc
 name: Khanh Dao Duc

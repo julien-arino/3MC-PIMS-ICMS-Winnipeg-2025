@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Chris
 last_name: Soteros
 name: Chris Soteros
