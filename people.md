@@ -19,11 +19,11 @@ layout: page
                         </div>
                     </td>
                     <td>
-                        {% if person.website %}
-                            <h2><a href="{{ person.website }}">{{ person.name }}</a></h2>
-                        {% else %}
-                            <h2>{{ person.name }}</h2>
-                        {% endif %}
+                        <h2>
+                            <a href="{{ site.baseurl }}/people/{{ person.name | downcase | replace: ' ', '-' }}/">
+                                {{ person.name }}
+                            </a>
+                        </h2>
                         {{ person.position }} 
                         <br>
                         {{ person.university }}
@@ -34,7 +34,6 @@ layout: page
                                 Research interests : {{ person.research }}
                                 <br>
                         {% endif %}
-                        {{ person.content | markdownify }}
                     </td>
                 </tr>
         {% endif %}
@@ -58,11 +57,15 @@ layout: page
                         </div>
                     </td>
                     <td>
-                        {% if person.website %}
-                            <h2><a href="{{ person.website }}">{{ person.name }}</a></h2>
-                        {% else %}
-                            <h2>{{ person.name }}</h2>
-                        {% endif %}
+                        <h2>
+                            {% if person.website %}
+                                <a href="{{ person.website }}">
+                                    {{ person.name }}
+                                </a>
+                            {% else %}
+                                {{ person.name }}
+                            {% endif %}
+                        </h2>
                         {{ person.position }} 
                         <br>
                         {{ person.university }}
