@@ -3,7 +3,8 @@ title: Schedule
 layout: page
 ---
 
-{% assign csv_data = site.data.schedule-line %} 
+{% assign csv_data = site.data.schedule-line %}
+{% assign instructors = site.people | where: "position_in_school", "Instructor" %}
 
 <h2>Week 1</h2>
 <table>
@@ -23,7 +24,7 @@ layout: page
             <td colspan="3"></td> <!-- Empty row between days -->
           </tr>
         {% endif %}
-        <tr 
+        <tr
           {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
           {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
@@ -36,7 +37,18 @@ layout: page
             {% endif %}
           </td>
           <td>{{ row.Time }}</td>
-          <td>{{ row.Event }}</td>
+          <td>
+            {% assign event_text = row.Event %}
+            {% assign linked = false %}
+            {% for instructor in instructors %}
+              {% assign instructor_name = instructor.title %}
+              {% if event_text contains instructor_name %}
+                {% assign linked = true %}
+                {% assign event_text = event_text | replace: instructor_name, '<a href="' | append: site.baseurl | append: instructor.url | append: '">' | append: instructor_name | append: '</a>' %}
+              {% endif %}
+            {% endfor %}
+            {{ event_text | markdownify | remove: '<p>' | remove: '</p>' }}
+          </td>
         </tr>
       {% endif %}
     {% endfor %}
@@ -58,10 +70,10 @@ layout: page
       {% if row.Week == "Week 2" %}
         {% if row.Day != current_day and current_day != "" %}
           <tr>
-            <td colspan="3"></td> <!-- Empty row between days -->
+            <td colspan="3"></t <!-- Empty row between days -->d> <!-- Empty row between days -->
           </tr>
         {% endif %}
-        <tr 
+        <tr
           {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
           {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
@@ -74,7 +86,18 @@ layout: page
             {% endif %}
           </td>
           <td>{{ row.Time }}</td>
-          <td>{{ row.Event }}</td>
+          <td>
+            {% assign event_text = row.Event %}
+            {% assign linked = false %}
+            {% for instructor in instructors %}
+              {% assign instructor_name = instructor.title %}
+              {% if event_text contains instructor_name %}
+                {% assign linked = true %}
+                {% assign event_text = event_text | replace: instructor_name, '<a href="' | append: site.baseurl | append: instructor.url | append: '">' | append: instructor_name | append: '</a>' %}
+              {% endif %}
+            {% endfor %}
+            {{ event_text | markdownify | remove: '<p>' | remove: '</p>' }}
+          </td>
         </tr>
       {% endif %}
     {% endfor %}
