@@ -21,7 +21,7 @@ layout: page
       {% if row.Week == "Week 1" %}
         {% if row.Day != current_day and current_day != "" %}
           <tr>
-            <td colspan="3"></td> <!-- Empty row between days -->
+            <td colspan="3"></td>
           </tr>
         {% endif %}
         <tr
@@ -39,12 +39,10 @@ layout: page
           <td>{{ row.Time }}</td>
           <td>
             {% assign event_text = row.Event %}
-            {% assign linked = false %}
             {% for instructor in instructors %}
-              {% assign instructor_name = instructor.title %}
-              {% if event_text contains instructor_name %}
-                {% assign linked = true %}
-                {% assign event_text = event_text | replace: instructor_name, '<a href="' | append: site.baseurl | append: instructor.url | append: '">' | append: instructor_name | append: '</a>' %}
+              {% assign last_name = instructor.last_name %}
+              {% if event_text contains last_name %}
+                {% assign event_text = event_text | replace: last_name, '<a href="' | append: site.baseurl | append: instructor.url | append: '">' | append: last_name | append: '</a>' %}
               {% endif %}
             {% endfor %}
             {{ event_text | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -70,7 +68,7 @@ layout: page
       {% if row.Week == "Week 2" %}
         {% if row.Day != current_day and current_day != "" %}
           <tr>
-            <td colspan="3"></t <!-- Empty row between days -->d> <!-- Empty row between days -->
+            <td colspan="3"></td>
           </tr>
         {% endif %}
         <tr
@@ -88,12 +86,10 @@ layout: page
           <td>{{ row.Time }}</td>
           <td>
             {% assign event_text = row.Event %}
-            {% assign linked = false %}
             {% for instructor in instructors %}
-              {% assign instructor_name = instructor.title %}
-              {% if event_text contains instructor_name %}
-                {% assign linked = true %}
-                {% assign event_text = event_text | replace: instructor_name, '<a href="' | append: site.baseurl | append: instructor.url | append: '">' | append: instructor_name | append: '</a>' %}
+              {% assign last_name = instructor.last_name %}
+              {% if event_text contains last_name %}
+                {% assign event_text = event_text | replace: last_name, '<a href="' | append: site.baseurl | append: instructor.url | append: '">' | append: last_name | append: '</a>' %}
               {% endif %}
             {% endfor %}
             {{ event_text | markdownify | remove: '<p>' | remove: '</p>' }}
