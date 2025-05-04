@@ -12,8 +12,8 @@ photo: /assets/images/jorg-stetefeld.jpg
 research: Structural biology
 ---
 
-### Lecture 1:
+### Lecture 1: Introduction to protein structure
 
-### Lecture 2:
+### Lecture 2: Introduction to cryogenic electron microscopy (cryo-EM) and tomography (cryo-ET)
 
 ### Lecture 3:

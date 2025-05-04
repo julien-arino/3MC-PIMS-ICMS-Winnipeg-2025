@@ -19,4 +19,4 @@ I will describe how to write down the equations for the state of a system when t
 
 I will introduce stochastic models for some of the phenomena mentioned above, show how to simulate them (e.g. using Gillespie’s algorithm) and how to derive ODEs for the expected behaviour of the stochastic systems (Kolmogorov Forward Equations)
 
-### Lecture 3: 
+### Lecture 3: Stochastic and deterministic models of cytoskeleton polymers and the forces they generate

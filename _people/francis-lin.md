@@ -12,7 +12,7 @@ photo: /assets/images/francislin.jpg
 research: Biophysics, Biomedical Engineering, Cell migration and trafficking, Immunology
 ---
 
-### Lecture 1:
+### Lecture 1: Cell migration - experiments
 
 ### Lecture 2:
 

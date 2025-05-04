@@ -12,7 +12,7 @@ photo: /assets/images/seanmckenna.png
 research: RNA-protein interactions, non-coding RNA, Biochemistry, Structural Biology, Molecular Biology
 ---
 
-### Lecture 1:
+### Lecture 1: Introduction to DNA - RNA
 
 ### Lecture 2:
 

@@ -11,3 +11,14 @@ position_in_school: Instructor
 research: Rheology, Intracellular transport, Stochastic approaches
 ---
 
+### Lecture 1: Brownian motion
+
+Physics, mathematics, and history.
+
+### Lecture 2: Stochastic differential equations
+
+Mathematics
+
+### Lecture 3: State space models
+
+Bayesian methods and applications to tracking in cells

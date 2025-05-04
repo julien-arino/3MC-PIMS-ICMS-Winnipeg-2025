@@ -12,8 +12,13 @@ photo: /assets/images/kang-ling-liao.webp
 research: Ordinary and delay differential equations, Mathematical oncology
 ---
 
-### Lecture 1:
+### Lecture 1: Parameter estimation
 
-### Lecture 2:
+I will show how to use experimental data to estimate parameter values.
 
-### Lecture 3:
+
+### Lecture 2: Evolutionary algorithm 
+
+I will explain the method of evolutionary algorithm and the Matlab code to show students one way to do data fitting.
+
+### Lecture 3: Identifiability

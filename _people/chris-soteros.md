@@ -12,8 +12,8 @@ photo: /assets/images/chris-soteros.jpeg
 research: Discrete math, Polymer modeling, DNA topology models
 ---
 
-### Lecture 1:
+### Lecture 1: Introduction to polymer modelling and some Monte Carlo methods
 
-### Lecture 2:
+### Lecture 2: Using polymer models to explore DNA topology questions
 
 ### Lecture 3:
