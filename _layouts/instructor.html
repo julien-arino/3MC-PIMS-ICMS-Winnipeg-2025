@@ -2,13 +2,8 @@
 layout: page
 ---
 
-<div class="instructor-profile">
-    <div class="profile-header">
-        <figure class="image is-128x128">
-            {% if page.photo %}
-                <img class="is-rounded" src="{{ site.url }}{{ site.baseurl }}{{ page.photo }}">
-            {% endif %}
-        </figure>
+<div class="instructor-profile" style="display: flex; align-items: flex-start; gap: 2rem;">
+    <div class="profile-info" style="flex: 1;">
         <h1>{{ page.name }}</h1>
         <h2>{{ page.position }}</h2>
         <h3>{{ page.university }}</h3>
@@ -17,10 +12,17 @@ layout: page
         {% endif %}
         <a href="mailto:{{ page.email }}">{{ page.email }}</a>
     </div>
-    <div class="profile-details">
-        {% if page.research %}
-            <strong>Research interests:</strong> {{ page.research }}<br>
-        {% endif %}
-        {{ content | markdownify }}
+    <div class="profile-photo">
+        <figure class="image is-128x128">
+            {% if page.photo %}
+                <img class="is-rounded" src="{{ site.url }}{{ site.baseurl }}{{ page.photo }}">
+            {% endif %}
+        </figure>
     </div>
+</div>
+<div class="profile-details" style="margin-top: 2rem;">
+    {% if page.research %}
+        <strong>Research interests:</strong> {{ page.research }}<br>
+    {% endif %}
+    {{ content | markdownify }}
 </div>
