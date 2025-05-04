@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Anotida
 last_name: Madzvamuse
 name: Anotida Madzvamuse

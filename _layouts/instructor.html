@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="instructor-profile">
+    <div class="profile-header">
+        <figure class="image is-128x128">
+            {% if page.photo %}
+                <img class="is-rounded" src="{{ site.url }}{{ site.baseurl }}{{ page.photo }}">
+            {% endif %}
+        </figure>
+        <h1>{{ page.name }}</h1>
+        <h2>{{ page.position }}</h2>
+        <h3>{{ page.university }}</h3>
+        {% if page.website %}
+            <a href="{{ page.website }}">Website</a><br>
+        {% endif %}
+        <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+    </div>
+    <div class="profile-details">
+        {% if page.research %}
+            <strong>Research interests:</strong> {{ page.research }}<br>
+        {% endif %}
+        {{ content | markdownify }}
+    </div>
+</div>
