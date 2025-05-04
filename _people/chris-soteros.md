@@ -12,3 +12,8 @@ photo: /assets/images/chris-soteros.jpeg
 research: Discrete math, Polymer modeling, DNA topology models
 ---
 
+### Lecture 1:
+
+### Lecture 2:
+
+### Lecture 3:

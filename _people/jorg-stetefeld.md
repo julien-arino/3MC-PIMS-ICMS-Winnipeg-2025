@@ -12,3 +12,8 @@ photo: /assets/images/jorg-stetefeld.jpg
 research: Structural biology
 ---
 
+### Lecture 1:
+
+### Lecture 2:
+
+### Lecture 3:

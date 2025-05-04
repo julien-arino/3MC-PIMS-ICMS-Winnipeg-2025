@@ -11,3 +11,9 @@ position_in_school: Instructor
 photo: /assets/images/margherita-maria-ferrari.jpg
 research: graph theory, combinatorics, DNA self-assembly, DNA-RNA interactions
 ---
+
+### Lecture 1:
+
+### Lecture 2:
+
+### Lecture 3:

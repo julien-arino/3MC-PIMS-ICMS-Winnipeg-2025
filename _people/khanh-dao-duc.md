@@ -11,3 +11,8 @@ position_in_school: Instructor
 research: image and shape analysis, machine learning, Computational geometry, stochastic process, optimal transport, cryo-EM, gene expression 
 ---
 
+### Lecture 1:
+
+### Lecture 2:
+
+### Lecture 3:
