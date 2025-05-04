@@ -2,6 +2,15 @@
 layout: page
 ---
 
+<style>
+.profile-info h3 {
+  font-size: 1.0em;
+  font-weight: normal;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+</style>
+
 <div class="instructor-profile" style="display: flex; align-items: flex-start; gap: 2rem;">
     <div class="profile-info" style="flex: 1;">
         <h1>{{ page.name }}</h1>
@@ -24,7 +33,7 @@ layout: page
     {% if page.research %}
         <strong>Research interests:</strong> {{ page.research }}<br>
     {% endif %}
-    <hr>
+    <hr style="border: 1px solid #ccc; margin: 2em 0;">
     <h2>Lectures during the School</h2>
     {{ content | markdownify }}
 </div>

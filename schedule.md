@@ -3,7 +3,8 @@ title: Schedule
 layout: page
 ---
 
-{% assign csv_data = site.data.schedule-line %} 
+{% assign csv_data = site.data.schedule-line %}
+{% assign instructors = site.people | where: "position_in_school", "Instructor" %}
 
 <h2>Week 1</h2>
 <table>
@@ -20,10 +21,10 @@ layout: page
       {% if row.Week == "Week 1" %}
         {% if row.Day != current_day and current_day != "" %}
           <tr>
-            <td colspan="3"></td> <!-- Empty row between days -->
+            <td colspan="3"></td>
           </tr>
         {% endif %}
-        <tr 
+        <tr
           {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
           {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
@@ -36,7 +37,20 @@ layout: page
             {% endif %}
           </td>
           <td>{{ row.Time }}</td>
-          <td>{{ row.Event }}</td>
+          <td>
+            {% assign linked = false %}
+            {% for instructor in instructors %}
+              {% assign last_name = instructor.last_name %}
+              {% if row.Event contains last_name %}
+                <a href="{{ site.baseurl }}{{ instructor.url }}">{{ row.Event }}</a>
+                {% assign linked = true %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+            {% unless linked %}
+              {{ row.Event }}
+            {% endunless %}
+          </td>
         </tr>
       {% endif %}
     {% endfor %}
@@ -58,10 +72,10 @@ layout: page
       {% if row.Week == "Week 2" %}
         {% if row.Day != current_day and current_day != "" %}
           <tr>
-            <td colspan="3"></td> <!-- Empty row between days -->
+            <td colspan="3"></td>
           </tr>
         {% endif %}
-        <tr 
+        <tr
           {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
           {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
@@ -74,7 +88,20 @@ layout: page
             {% endif %}
           </td>
           <td>{{ row.Time }}</td>
-          <td>{{ row.Event }}</td>
+          <td>
+            {% assign linked = false %}
+            {% for instructor in instructors %}
+              {% assign last_name = instructor.last_name %}
+              {% if row.Event contains last_name %}
+                <a href="{{ site.baseurl }}{{ instructor.url }}">{{ row.Event }}</a>
+                {% assign linked = true %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+            {% unless linked %}
+              {{ row.Event }}
+            {% endunless %}
+          </td>
         </tr>
       {% endif %}
     {% endfor %}
