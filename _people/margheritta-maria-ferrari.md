@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Margherita Maria
 last_name: Ferrari
 name: Margherita Maria Ferrari

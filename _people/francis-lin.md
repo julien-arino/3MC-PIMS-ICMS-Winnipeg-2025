@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Francis
 last_name: Lin
 name: Francis Lin

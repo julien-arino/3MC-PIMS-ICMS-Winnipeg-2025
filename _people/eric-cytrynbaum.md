@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Eric
 last_name: Cytrynbaum
 name: Eric Cytrynbaum

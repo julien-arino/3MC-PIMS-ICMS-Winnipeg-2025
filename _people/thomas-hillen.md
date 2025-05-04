@@ -1,4 +1,5 @@
 ---
+layout: instructor
 first_name: Thomas
 last_name: Hillen
 name: Thomas Hillen
