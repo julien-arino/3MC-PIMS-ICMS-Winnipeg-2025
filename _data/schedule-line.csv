@@ -46,7 +46,7 @@ Week 1,Friday,18:30-19:30,Dinner
 Week 1,Friday,19:30-21:00,Project
 Week 1,Saturday,All Day,Project
 Week 1,Sunday,All Day,Project
-Week 2,Monday,8:30-10:00,Lecture 20 - Dao Duc 1 - A Riemannian perspective on shape space with applications to cancer cell shape heterogeneity
+Week 2,Monday,8:30-10:00,Lecture 20 - Dao Duc 1 - Metrics statistics and dimensionality reduction methods for biological shape analysis - Part 1 (Wenjun Zhao)
 Week 2,Monday,10:00-10:30,Coffee Break
 Week 2,Monday,10:30-12:00,Lecture 21 - Hillen 1 - Transport equations in biology
 Week 2,Monday,12:00-13:00,Project
@@ -55,7 +55,7 @@ Week 2,Monday,14:00-15:30,Lecture 22 - Liao 2 - Evolutionary algorithms
 Week 2,Monday,15:30-17:00,Project
 Week 2,Monday,18:30-19:30,Dinner
 Week 2,Monday,19:30-21:00,Project
-Week 2,Tuesday,8:30-10:00,Lecture 23 - Dao Duc 2 - Manifold learning methods and dimensionality reduction of biological shape datasets
+Week 2,Tuesday,8:30-10:00,Lecture 23 - Dao Duc 2 - Metrics statistics and dimensionality reduction methods for biological shape analysis - Part 2 
 Week 2,Tuesday,10:00-10:30,Coffee Break
 Week 2,Tuesday,10:30-12:00,Lecture 24 - Hillen 2 - Anisotropic diffusion
 Week 2,Tuesday,12:00-13:00,Project
@@ -66,7 +66,7 @@ Week 2,Tuesday,18:30-19:30,Dinner
 Week 2,Tuesday,19:30-21:00,Project
 Week 2,Wednesday,8:30-10:00,Lecture 26 - Stetefeld 2 - Introduction to cryogenic electron microscopy (cryo-EM) and tomography (cryo-ET) 
 Week 2,Wednesday,10:00-10:30,Coffee Break
-Week 2,Wednesday,10:30-12:00,Lecture 27 - Dao Duc 3 - An introduction to optimal transport with applications for cryo-EM/ET guided drug design pipeline
+Week 2,Wednesday,10:30-12:00,Lecture 27 - Dao Duc 3 - Introduction to Optimal Transport Wasserstein metrics and application to protein and cell shapes
 Week 2,Wednesday,12:00-13:00,Project
 Week 2,Wednesday,13:00-14:00,Lunch
 Week 2,Wednesday,14:00-15:30,Lecture 28 - Hillen 3 - Modelling of glioma with anisotropic diffusion
