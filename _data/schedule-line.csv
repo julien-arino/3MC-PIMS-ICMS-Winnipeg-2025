@@ -2,10 +2,11 @@ Week,Day,Time,Event
 Week 1,Monday,8:30-10:00,Lecture 1 - Stetefeld 1 - Introduction to protein structure
 Week 1,Monday,10:00-10:30,Coffee Break
 Week 1,Monday,10:30-12:00,"Lecture 2 - Newby 1 - Brownian motion: physics, mathematics and history"
-Week 1,Monday,12:00-13:00,Project - Presentation of project topics and groups
+Week 1,Monday,12:00-13:00,Project - Presentation of project topics
 Week 1,Monday,13:00-14:00,Lunch
 Week 1,Monday,14:00-15:30,"Lecture 3 - Cytrynbaum 1 - Conservation laws: compartment models, diffusion-advection equations"
-Week 1,Monday,15:30-17:00,Lecture 4 - Madzvamuse 1 - Analysis of reaction-diffusion systems on stationary domains
+Week 1,Monday,15:30-16:00,Coffee Break
+Week 1,Monday,16:00-17:30,Lecture 4 - Madzvamuse 1 - Analysis of reaction-diffusion systems on stationary domains
 Week 1,Monday,18:30-19:30,Dinner
 Week 1,Monday,19:30-21:00,Project
 Week 1,Tuesday,8:30-10:00,Lecture 5 - Lin 1 - Cell migration - experiments
