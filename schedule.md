@@ -29,6 +29,7 @@ layout: page
           {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
           {% if row.Event == "Project" %}style="background-color: #f5f5dc;"{% endif %}
+          {% if row.Event == "Supervised Project" %}style="background-color:rgb(238, 238, 86);"{% endif %}
         >
           <td>
             {% if row.Day != current_day %}
@@ -80,6 +81,7 @@ layout: page
           {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
           {% if row.Event == "Project" %}style="background-color: #f5f5dc;"{% endif %}
+          {% if row.Event == "Supervised Project" %}style="background-color:rgb(238, 238, 86);"{% endif %}
         >
           <td>
             {% if row.Day != current_day %}
