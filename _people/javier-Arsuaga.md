@@ -11,7 +11,7 @@ position_in_school: Instructor
 research: Molecular and Cellular Biology, Mathematics
 ---
 
-### Lecture 1: 
+### Lecture 1: Identifying cancer chromosome aberrations using topological data analysis and graph theory
 
 ### Lecture 2:
 
