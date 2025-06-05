@@ -25,11 +25,11 @@ layout: page
           </tr>
         {% endif %}
         <tr
-          {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
-          {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
-          {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
-          {% if row.Event == "Project" %}style="background-color: #f5f5dc;"{% endif %}
-          {% if row.Event == "Supervised Project" %}style="background-color:rgb(241, 241, 132);"{% endif %}
+          {% if row.Event contains "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
+          {% if row.Event contains "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
+          {% if row.Event contains "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
+          {% if row.Event contains "Project" %}style="background-color: #f5f5dc;"{% endif %}
+          {% if row.Event contains "Supervised Project" %}style="background-color:rgb(241, 241, 132);"{% endif %}
         >
           <td>
             {% if row.Day != current_day %}
@@ -77,11 +77,11 @@ layout: page
           </tr>
         {% endif %}
         <tr
-          {% if row.Event == "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
-          {% if row.Event == "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
-          {% if row.Event == "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
-          {% if row.Event == "Project" %}style="background-color: #f5f5dc;"{% endif %}
-          {% if row.Event == "Supervised Project" %}style="background-color:rgb(241, 241, 132);"{% endif %}
+          {% if row.Event contains "Coffee Break" %}style="background-color: #f0f8ff;"{% endif %}
+          {% if row.Event contains "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
+          {% if row.Event contains "Dinner" %}style="background-color: #d3ffd3;"{% endif %}
+          {% if row.Event contains "Project" %}style="background-color: #f5f5dc;"{% endif %}
+          {% if row.Event contains "Supervised Project" %}style="background-color:rgb(241, 241, 132);"{% endif %}
         >
           <td>
             {% if row.Day != current_day %}
