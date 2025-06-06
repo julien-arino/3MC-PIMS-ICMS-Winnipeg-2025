@@ -2,9 +2,9 @@
 title: Application
 layout: page
 ---
-The School can only accomodate a limited number of participants with funding. 
+The School can only accommodate a limited number of participants with funding. 
 As a consequence, an application process to attend the School is in place.
-Applications for students not based in Canada closed on October 15th 2024. Applicants were contacted mid-November, once all applications had been reviewed.
+Applications for students not based in Canada closed on October 15th 2024. 
 
 
 # Deadlines
