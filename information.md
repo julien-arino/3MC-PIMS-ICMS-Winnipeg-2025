@@ -17,14 +17,15 @@ The school will be held on the Fort Gary Campus of the [University of Manitoba](
 ## Supported non-local students
 Supported non-local students will be housed at the St John’s College Residence (17 Sifton Road). Breakfasts, lunches and dinners will also be provided for the duration of your time at the Daily Bread Café, within the St John's College building. Each room is supplied with linens and towels, but please remember to bring your own toiletries.
 
-When you arrive at 17 Sifton Road, please call the Don on duty at (204) 291-5687, who will assist you with your check-in and help you get settled. A Don is on duty 24/7.
+When you arrive at 17 Sifton Road, please call the Don on duty at 204-291-5687, who will assist you with your check-in and help you get settled. A Don is on duty 24/7.
 
 
 ## Supported local students
 Lunches and dinners will be provided for the duration of the school at the Daily Bread Café.
 
 ## Instructors
-Instructors will be housed at the Pembina Hall Residence. Check in at Arthur Mauro Residence (120 Dafoe Rd), where you will receive keys. 
+Instructors will be housed at the Pembina Hall Residence (30 Maclean Crescent). Check in at Arthur Mauro Residence (120 Dafoe Road), where you will receive keys. Please email Conference.Residence@umanitoba.ca at least 4 days in advance with your expected arrival time so that the residence office (204-474-9922) can ensure rooms are prepared.
+
 Breakfasts, lunches and dinners will be provided for the duration of the school at the Daily Bread Café.
 
 ## Maps
