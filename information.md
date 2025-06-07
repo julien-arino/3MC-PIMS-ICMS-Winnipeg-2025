@@ -87,7 +87,7 @@ To reach the UofM Fort Garry Campus, there are taxis, Uber or buses.
 
 **For bus:** Winnipeg Transit offers bus service to and from the airport from 5:24 a.m. to 1:17 a.m. The bus terminal is located on the median between the two lanes of traffic outside on Arrivals Level 1, closest to Door 3. 
 
-Take Bus 15 from the airport and then connect to Blue, obtain your itinerary with [Navigo](https://winnipegtransit.com/navigo/results?origin=monuments/9097&destination=monuments/940&mode=depart_after&dateTime=2025-06-06T14:50:30.528Z). It costs $3.55 in cash.
+Take Bus 15 or 20 from the airport and then connect to Blue, obtain your itinerary with [Navigo](https://winnipegtransit.com/navigo/results?origin=monuments/9097&destination=monuments/940&mode=depart_after&dateTime=2025-06-06T14:50:30.528Z). It costs $3.55 in cash.
 
 
 # [Winnipeg](https://www.meetingswinnipeg.com/conference/3mc-pims-idms-icms-summer-school)
