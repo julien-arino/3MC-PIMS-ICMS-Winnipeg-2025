@@ -8,10 +8,9 @@ layout: page
 This research school is organized by the [Maud Menten Institute](https://maudmenteninstitute.org/) and  part of a series of events that emerges from the collaboration of three bodies: The [3MC program](https://natural-sciences.nwu.ac.za/paa/3MC) (South Africa), [PIMS](https://www.pims.math.ca/) (Canada) and [ICMS](https://www.icms.org.uk/) (UK). 
 
 
-The summer school aims to equip students with essential tools and methodologies for investigating complex molecular and cellular questions. Courses will cover techniques relevant to structural, molecular and cellular biology, all driven by specific biological questions.  Cancer will be used as an integrative example throughout the program.
 
 
-# Venue
+# Location
 
 The school will be held on the Fort Gary Campus of the [University of Manitoba](https://umanitoba.ca/). Lectures, project work, coffee breaks and meals will take place at [St John's College](https://umanitoba.ca/st-johns-college/) (SJC).
 
@@ -21,10 +20,12 @@ Supported non-local students will be housed at the St John’s College Residence
 When you arrive at 17 Sifton Road, please call the Don on duty at (204) 291-5687, who will assist you with your check-in and help you get settled. A Don is on duty 24/7.
 
 
-
 ## Supported local students
 Lunches and dinners will be provided for the duration of the school at the Daily Bread Café.
 
+## Instructors
+Instructors will be housed at the Pembina Hall Residence. Check in at Arthur Mauro Residence (120 Dafoe Rd), where you will receive keys. 
+Breakfasts, lunches and dinners will be provided for the duration of the school at the Daily Bread Café.
 
 ## Maps
 
@@ -32,7 +33,33 @@ Lunches and dinners will be provided for the duration of the school at the Daily
 
 [St John's College](https://umanitoba.ca/st-johns-college/) ([Google Map link](https://goo.gl/maps/11WF5JJ3zfo5Qxqv5))
 
+
+# Getting around
+
+The school will be held on the [Fort Garry](https://umanitoba.ca/about-um/our-campuses) (main) Campus of the [University of Manitoba](https://umanitoba.ca/), located in the south end of the city.  
+
+Fast direct bus service is available from downtown to the [Fort Garry Campus](https://maps.umanitoba.ca/) using the [Blue Rapid Transit Line](https://info.winnipegtransit.com/en/service/blue-rapid-transit/). Be careful to take a *University of Manitoba* destined bus, not one headed to *Saint Norbert*. 
+Other bus lines connecting downtown to the campus are the 47 and the 60 lines.
+
+You can use Google Maps or the [Winnipeg Transit website](https://winnipegtransit.com/navigo?mode=depart_after&dateTime=now) to obtain bus information. Bus fares are $3.55 in cash (drivers do not give change) or $3.00 using tickets or e-cash (the latter requires to buy a $5.00 card, peggo e-passes).
+
+
+### From the Richardson International Airport
+To reach the UofM Fort Garry Campus, there are taxis, Uber or buses.
+
+**For taxi:** Taxi service from the airport is provided by Unicity Taxi. Taxis are available on Arrivals Level 1 near Door 3 of the terminal. It will likely cost around $45.
+
+**For Uber:** Rideshare services will pick you up on Arrivals Level 1 outside of Door 1.
+
+**For bus:** Winnipeg Transit offers bus service to and from the airport from 5:24 a.m. to 1:17 a.m. The bus terminal is located on the median between the two lanes of traffic outside on Arrivals Level 1, closest to Door 3. 
+
+Take Bus 15 or 20 from the airport and then connect to Blue, obtain your itinerary with [Navigo](https://winnipegtransit.com/navigo/results?origin=monuments/9097&destination=monuments/940&mode=depart_after&dateTime=2025-06-06T14:50:30.528Z). It costs $3.35 in cash.
+
+
+
 # School structure
+
+The summer school aims to equip students with essential tools and methodologies for investigating complex molecular and cellular questions. Courses will cover techniques relevant to structural, molecular and cellular biology, all driven by specific biological questions.  Cancer will be used as an integrative example throughout the program.
 
 ## Schedule
 
@@ -68,26 +95,6 @@ Each group will present their findings in an oral presentation on Friday, June 2
 * Stochastic processes and dynamical systems in biological systems 
  
 
-# Getting around
-
-The school will be held on the [Fort Garry](https://umanitoba.ca/about-um/our-campuses) (main) Campus of the [University of Manitoba](https://umanitoba.ca/), located in the south end of the city.  
-
-Fast direct bus service is available from downtown to the [Fort Garry Campus](https://maps.umanitoba.ca/) using the [Blue Rapid Transit Line](https://info.winnipegtransit.com/en/service/blue-rapid-transit/). Be careful to take a *University of Manitoba* destined bus, not one headed to *Saint Norbert*. 
-Other bus lines connecting downtown to the campus are the 47 and the 60 lines.
-
-You can use Google Maps or the [Winnipeg Transit website](https://winnipegtransit.com/navigo?mode=depart_after&dateTime=now) to obtain bus information. Bus fares are $3.55 in cash (drivers do not give change) or $3.00 using tickets or e-cash (the latter requires to buy a $5.00 card, peggo e-passes).
-
-
-### From the Richardson International Airport
-To reach the UofM Fort Garry Campus, there are taxis, Uber or buses.
-
-**For taxi:** Taxi service from the airport is provided by Unicity Taxi. Taxis are available on Arrivals Level 1 near Door 3 of the terminal. It will likely cost $35-$45.
-
-**For Uber:** Rideshare services will pick you up on Arrivals Level 1 outside of Door 1.
-
-**For bus:** Winnipeg Transit offers bus service to and from the airport from 5:24 a.m. to 1:17 a.m. The bus terminal is located on the median between the two lanes of traffic outside on Arrivals Level 1, closest to Door 3. 
-
-Take Bus 15 or 20 from the airport and then connect to Blue, obtain your itinerary with [Navigo](https://winnipegtransit.com/navigo/results?origin=monuments/9097&destination=monuments/940&mode=depart_after&dateTime=2025-06-06T14:50:30.528Z). It costs $3.55 in cash.
 
 
 # [Winnipeg](https://www.meetingswinnipeg.com/conference/3mc-pims-idms-icms-summer-school)
