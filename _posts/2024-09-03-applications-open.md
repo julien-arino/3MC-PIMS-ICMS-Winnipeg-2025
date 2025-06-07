@@ -11,6 +11,6 @@ tags:
 - test
 ---
 
-Applications for Canada-based students are closed. 
+Applications for support are closed. 
 
 
