@@ -8,6 +8,6 @@ position: Postdoc
 website: https://www.clotilde-djuikem.com/
 position_in_school: Organising Committee
 exact_role_in_school: Organising Committee
-
+photo: /assets/images/Clotilde-Djuikem.JPEG
 ---
 
