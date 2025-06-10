@@ -7,7 +7,7 @@ Week 1,Monday,12:00-13:00,Project - Presentation of project topics (Room SJC 118
 Week 1,Monday,13:00-14:00,Lunch - Daily Bread Café
 Week 1,Monday,14:00-15:30,Lecture 3 - Cytrynbaum 1 - Conservation laws: compartment models and diffusion-advection equations (Room SJC 118)
 Week 1,Monday,15:30-16:00,Coffee Break - Daily Bread Café
-Week 1,Monday,16:00-17:30,Lecture 4 - Madzvamuse 1 - Analysis of reaction-diffusion systems on stationary domains (Room SJC 118)
+Week 1,Monday,16:00-17:30,Lecture 4 - Madzvamuse 1 - Derivation of reaction-diffusion systems on continuously deforming domains and surfaces (Room SJC 118)
 Week 1,Monday,17:30-18:30,Reception - Daily Bread Café
 Week 1,Monday,18:30-19:30,Dinner - Daily Bread Café
 Week 1,Monday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
@@ -18,7 +18,7 @@ Week 1,Tuesday,12:00-13:00,Supervised Project - Rooms SJC 118 - SJC 112 - SJC 11
 Week 1,Tuesday,13:00-14:00,Lunch - Daily Bread Café
 Week 1,Tuesday,14:00-15:30,Lecture 7 - Cytrynbaum 2 - Stochastic models for simple reactions and the Kolmogorov Forward Equation (Room SJC 118)
 Week 1,Tuesday,15:30-16:00,Coffee Break - Daily Bread Café
-Week 1,Tuesday,16:00-17:30,Lecture 8 - Madzvamuse 2 - Numerical methods for reaction-diffusion system on stationary domains (Room SJC 118)
+Week 1,Tuesday,16:00-17:30,Lecture 8 - Madzvamuse 2 - Finite element methods for reaction-diffusion systems on continuously deforming domains and surfaces (Room SJC 118)
 Week 1,Tuesday,18:30-19:30,Dinner - Daily Bread Café
 Week 1,Tuesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 1,Wednesday,8:30-10:00,Lecture 9 - McKenna 1 - Introduction to DNA - RNA (Room SJC 118)
@@ -46,7 +46,7 @@ Week 1,Friday,10:00-10:30,Coffee Break - Daily Bread Café
 Week 1,Friday,10:30-12:00,Lecture 18 - Soteros 2 - Using polymer models to explore DNA topology questions (Room SJC 118)
 Week 1,Friday,12:00-13:00,Supervised Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 1,Friday,13:00-14:00,Lunch - Daily Bread Café
-Week 1,Friday,14:00-15:30,Lecture 19 - Madzvamuse 3 - High performance numerical methods for PDEs (Room SJC 118)
+Week 1,Friday,14:00-15:30,Lecture 19 - Madzvamuse 3 - Solving reaction-diffusion systems using FeNiCs (Room SJC 118)
 Week 1,Friday,15:30-16:00,Coffee Break - Daily Bread Café
 Week 1,Friday,16:00-17:30,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 1,Friday,18:30-19:30,Dinner - Daily Bread Café
