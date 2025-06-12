@@ -16,24 +16,24 @@ Week 1,Tuesday,7:30-8:30,Breakfast - Daily Bread Café
 Week 1,Tuesday,8:30-10:00,Lecture 5 - Lin 1 - Cell migration - experiments (Room SJC 118)
 Week 1,Tuesday,10:00-10:30,Coffee Break - Daily Bread Café
 Week 1,Tuesday,10:30-12:00,Lecture 6 - Newby 2 - Stochastic differential equations (Room SJC 118)
-Week 1,Tuesday,12:00-13:00,Supervised Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
+Week 1,Tuesday,12:00-13:00,Supervised Project - Rooms SJC 118 - SJC 112 - SJC 113  - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 1,Tuesday,13:00-14:00,Lunch - Daily Bread Café
 Week 1,Tuesday,14:00-15:30,Lecture 7 - Cytrynbaum 2 - Stochastic models for simple reactions and the Kolmogorov Forward Equation (Room SJC 118)
 Week 1,Tuesday,15:30-16:00,Coffee Break - Daily Bread Café
 Week 1,Tuesday,16:00-17:30,Lecture 8 - Madzvamuse 2 - Finite element methods for reaction-diffusion systems on continuously deforming domains and surfaces (Room SJC 118)
 Week 1,Tuesday,18:30-19:30,Dinner - Daily Bread Café
-Week 1,Tuesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
+Week 1,Tuesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 1,Wednesday,7:30-8:30,Breakfast - Cross Common Room (SJC 108)
 Week 1,Wednesday,8:30-10:00,Lecture 9 - McKenna 1 - Introduction to DNA - RNA (Room SJC 118)
 Week 1,Wednesday,10:00-10:30,Coffee Break - Cross Common Room (SJC 108)
 Week 1,Wednesday,10:30-12:00,Lecture 10 - Newby 3 - State space models: bayesian methods and applications to tracking in cells (Room SJC 118)
-Week 1,Wednesday,12:00-13:00,Supervised Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
+Week 1,Wednesday,12:00-13:00,Supervised Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 312 (only for hybrid sessions)
 Week 1,Wednesday,13:00-14:00,Lunch - Cross Common Room (SJC 108)
 Week 1,Wednesday,14:00-15:30,Lecture 11 - Cytrynbaum 3 - Stochastic and deterministic models of cytoskeleton polymers (Room SJC 118)
 Week 1,Wednesday,15:30-16:00,Coffee Break - Cross Common Room (SJC 108)
 Week 1,Wednesday,16:00-17:30,Lecture 12 - Ferrari 1 - Introduction to graph theory (Room SJC 118)
 Week 1,Wednesday,18:30-19:30,Dinner - Cross Common Room (SJC 108)
-Week 1,Wednesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
+Week 1,Wednesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 1,Thursday,7:30-8:30,Breakfast - Daily Bread Café
 Week 1,Thursday,8:30-10:00,Lecture 13 - Chan 1 - Introduction to cancer biology (Room SJC 118)
 Week 1,Thursday,10:00-10:30,Coffee Break - Daily Bread Café
@@ -54,7 +54,7 @@ Week 1,Friday,13:00-14:00,Lunch - Daily Bread Café
 Week 1,Friday,14:00-15:30,Lecture 19 - Madzvamuse 3 - Solving reaction-diffusion systems using FeNiCs (Room SJC 118)
 Week 1,Friday,15:30-16:00,Coffee Break - Daily Bread Café
 Week 1,Friday,16:00-17:30,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
-Week 1,Friday,18:30-19:30,Dinner - Daily Bread Café
+Week 1,Friday,18:30-19:30,Dinner - BBQ - Daily Bread Café
 Week 1,Friday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 1,Saturday,7:30-8:30,Breakfast - Daily Bread Café
 Week 1,Saturday,All Day,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
@@ -80,7 +80,7 @@ Week 2,Tuesday,14:00-15:30,Lecture 25 - Liao 3 - Identifiability (Room SJC 118)
 Week 2,Tuesday,15:30-16:00,Coffee Break - Daily Bread Café
 Week 2,Tuesday,16:00-17:30,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 2,Tuesday,18:30-19:30,Dinner - Daily Bread Café
-Week 2,Tuesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
+Week 2,Tuesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 2,Wednesday,7:30-8:30,Breakfast - Galleria
 Week 2,Wednesday,8:30-10:00,Lecture 26 - Stetefeld 2 - Introduction to cryogenic electron microscopy (cryo-EM) and tomography (cryo-ET) (Room SJC 118)
 Week 2,Wednesday,10:00-10:30,Coffee Break - Galleria
@@ -91,7 +91,7 @@ Week 2,Wednesday,14:00-15:30,Lecture 28 - Hillen 3 - Modelling of glioma with an
 Week 2,Wednesday,15:30-16:00,Coffee Break - Galleria
 Week 2,Wednesday,16:00-17:30,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 2,Wednesday,18:30-19:30,Dinner - Galleria
-Week 2,Wednesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
+Week 2,Wednesday,19:30-21:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 2,Thursday,7:30-8:30,Breakfast - Daily Bread Café
 Week 2,Thursday,8:30-10:00,Project - Rooms SJC 118 - SJC 112 - SJC 113 - SJC 201 - SJC 202 - SJC 204 - SJC 312 (only for hybrid sessions)
 Week 2,Thursday,10:00-10:30,Coffee Break - Daily Bread Café

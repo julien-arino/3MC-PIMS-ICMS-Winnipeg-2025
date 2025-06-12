@@ -29,8 +29,9 @@ layout: page
           {% if row.Event contains "Breakfast" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Dinner" %}style="background-color:  #ffe4b5;"{% endif %}
+          {% if row.Event contains "Reception" %}style="background-color:  #ffe4b5;"{% endif %}
           {% if row.Event contains "Project" %}style="background-color:rgb(194, 207, 209);"{% endif %}
-          {% if row.Event contains "Supervised Project" %}style="background-color:rgb(198, 233, 240);"{% endif %}
+          {% if row.Event contains "Supervised Project" %}style="background-color:rgb(175, 202, 206);"{% endif %}
           {% if row.Event contains "Lecture" %}style="background-color:rgb(226, 239, 241);"{% endif %}
         >
           <td>
@@ -83,8 +84,10 @@ layout: page
           {% if row.Event contains "Breakfast" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Dinner" %}style="background-color:  #ffe4b5;"{% endif %}
-          {% if row.Event contains "Project" %}style="background-color:rgb(153, 215, 226);"{% endif %}
-          {% if row.Event contains "Supervised Project" %}style="background-color:rgb(198, 233, 240);"{% endif %}
+          {% if row.Event contains "Reception" %}style="background-color:  #ffe4b5;"{% endif %}
+          {% if row.Event contains "Project" %}style="background-color:rgb(194, 207, 209);"{% endif %}
+          {% if row.Event contains "Supervised Project" %}style="background-color:rgb(175, 202, 206);"{% endif %}
+          {% if row.Event contains "Lecture" %}style="background-color:rgb(226, 239, 241);"{% endif %}
         >
           <td>
             {% if row.Day != current_day %}
