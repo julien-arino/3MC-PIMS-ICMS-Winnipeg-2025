@@ -27,6 +27,7 @@ layout: page
         <tr
           {% if row.Event contains "Coffee Break" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Breakfast" %}style="background-color: #ffe4b5;"{% endif %}
+          {% if row.Event contains "Brunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Dinner" %}style="background-color:  #ffe4b5;"{% endif %}
           {% if row.Event contains "Reception" %}style="background-color:  #ffe4b5;"{% endif %}
@@ -81,6 +82,7 @@ layout: page
         {% endif %}
         <tr
          {% if row.Event contains "Coffee Break" %}style="background-color: #ffe4b5;"{% endif %}
+         {% if row.Event contains "Brunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Breakfast" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Lunch" %}style="background-color: #ffe4b5;"{% endif %}
           {% if row.Event contains "Dinner" %}style="background-color:  #ffe4b5;"{% endif %}
